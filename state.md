@@ -4,9 +4,15 @@ Answer these on your own, then compare answers as a group
 
 1.  What is state?
 
+holds data within the componenet
+
 2.  Where do you set initial state?
 
+in the parent component
+
 3.  What method do you use to update state?
+
+this.setState({})
 
 ### Understand
 

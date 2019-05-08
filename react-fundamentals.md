@@ -32,6 +32,8 @@ Discuss these questions in pairs if you have a 4-person group
 
 7.  Summarize what happens when you run `create-react-app my-app`
 
+we get a fatty file, compiling the needed docs for a condusive environment for React to operate. everything we need to get up and running with React.
+
 8.  Explain what this code does:
 
 ```jsx
